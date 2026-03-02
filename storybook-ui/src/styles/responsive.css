@@ -1,0 +1,18 @@
+@media (max-width: 768px) {
+  .viewer {
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .nav-button {
+    font-size: 32px;
+  }
+
+  .image-wrapper {
+    max-width: 100%;
+  }
+
+  .book-title {
+    font-size: 18px;
+  }
+}

@@ -1,0 +1,27 @@
+Book: {book_title}
+Page: {page_number} of {total_pages}
+
+Scene:
+- Setting: {setting}
+- Time of day: {time_of_day}
+- Mood: {mood}
+
+Characters:
+{characters_block}
+
+Props:
+{props_block}
+
+Composition notes:
+{composition_notes}
+
+Continuity notes:
+{continuity_notes}
+
+Style lock:
+- Soft watercolor children's book illustration
+- Gentle outlines, warm lighting
+- Pastel-friendly colors
+- Clear composition and readable scene
+
+Generate the illustration now.

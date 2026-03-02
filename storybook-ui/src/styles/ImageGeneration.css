@@ -1,0 +1,123 @@
+.image-viewer-container {
+  margin-top: 24px;
+  text-align: center;
+}
+
+/* Viewer layout */
+.viewer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 32px;
+  gap: 20px;
+}
+
+/* Image wrapper */
+.image-wrapper {
+  position: relative;
+  max-width: 600px;
+}
+
+.image-wrapper img {
+  width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);
+}
+
+
+/* Page number */
+.page-indicator {
+  margin-top: 12px;
+  font-size: 14px;
+  color: #555;
+}
+
+/* Navigation buttons */
+.nav-button {
+  font-size: 40px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: #333;
+  padding: 10px;
+  transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+.nav-button:hover:not(:disabled) {
+  transform: scale(1.1);
+}
+
+.nav-button:disabled {
+  opacity: 0.3;
+  cursor: not-allowed;
+}
+
+/* Loader */
+.loader-overlay {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+}
+
+.spinner {
+  width: 40px;
+  height: 40px;
+  border: 4px solid #ddd;
+  border-top: 4px solid #333;
+  border-radius: 50%;
+  animation: spin 0.9s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.download-single {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  background: rgba(0, 0, 0, 0.6);
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 36px;
+  height: 36px;
+  font-size: 18px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.2s ease, transform 0.2s ease;
+}
+
+.download-single:hover {
+  background: rgba(0, 0, 0, 0.8);
+  transform: scale(1.05);
+}
+.download-all-wrapper {
+  margin-top: 24px;
+  display: flex;
+  justify-content: center;
+}
+
+/* Optional outline variant */
+.primary.outline {
+  background: white;
+  color: #4f46e5;
+  border: 1px solid #4f46e5;
+}
+
+.primary.outline:hover {
+  background: #eef2ff;
+}
+
+
+
+.muted {
+  color: #6b7280;
+  font-size: 14px;
+}

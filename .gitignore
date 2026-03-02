@@ -1,0 +1,74 @@
+# Environment variables
+.env
+*.env.local
+*.env.*.local
+
+# Project specific exclusions
+myenc/
+source/
+*.tar.gz
+*.zip
+*.docx
+*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+out/
+.next/
+.serverless/
+.fusebox/
+.dynamodb/
+.tern-port
+storybook-static/
+.eslintcache
+.stylelintcache
+.node_repl_history
+
+# React/Vite/Build outputs
+dist/
+build/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# App Data (Exclude generated content but keeping the structure)
+storybook-ai/data/books/
+storybook-ai/data/tmp/
+storybook-ai/data/output/
+!storybook-ai/data/.gitkeep
