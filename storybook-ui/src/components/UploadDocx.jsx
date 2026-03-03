@@ -90,12 +90,15 @@ export default function UploadDocx({ onSuccess }) {
         return;
       }
 
+      console.log(`[UploadDocx] Starting upload process. Type: ${uploadType}`);
       setLoading(true);
       const res = await uploadDocx(fileToUpload);
+      console.log("[UploadDocx] Upload successful:", res.data);
       onSuccess(res.data);
     } catch (err) {
-      console.error(err);
-      alert("Upload failed");
+      console.error("[UploadDocx] Upload failed:", err);
+      const errorDetail = err.response?.data?.detail || err.message || "Unknown error";
+      alert(`Upload failed: ${errorDetail}`);
     } finally {
       setLoading(false);
     }

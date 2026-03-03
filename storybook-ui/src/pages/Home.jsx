@@ -38,13 +38,13 @@ export default function Home() {
         <>
           <BookSummary data={book} />
           <ImageGeneration
-            bookId={book.book_file_id}
+            bookId={book.book_id}
             onStart={() => setStatus("generating")}
           />
         </>
       )}
 
-      
+
     </div>
   );
 }

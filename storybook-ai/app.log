@@ -1,0 +1,354 @@
+2026-03-03 05:29:54,495 - storybook-ai - INFO - Received upload request for file: original.docx
+2026-03-03 05:29:54,497 - storybook-ai - INFO - Saved temporary file to data\tmp\upload_20260303_052954.docx
+2026-03-03 05:29:54,497 - storybook-ai - INFO - Parsing DOCX: data\tmp\upload_20260303_052954.docx
+2026-03-03 05:29:54,545 - storybook-ai - INFO - Extracted 30 pages from 'Title: Bailey and Beau’s Epic Explorations: Partners in Discovery'
+2026-03-03 05:31:14,579 - storybook-ai - INFO - Received upload request for file: original.docx
+2026-03-03 05:31:14,580 - storybook-ai - INFO - Saved temporary file to data\tmp\upload_20260303_053114.docx
+2026-03-03 05:31:14,581 - storybook-ai - INFO - Parsing DOCX: data\tmp\upload_20260303_053114.docx
+2026-03-03 05:31:14,581 - storybook-ai.parser - INFO - Parsing document at data\tmp\upload_20260303_053114.docx
+2026-03-03 05:31:14,646 - storybook-ai.parser - INFO - Inferred Book Title: Title: Bailey and Beau’s Epic Explorations: Partners in Discovery
+2026-03-03 05:31:14,646 - storybook-ai.parser - INFO - Found marker for Page 1
+2026-03-03 05:31:14,647 - storybook-ai.parser - INFO - Found marker for Page 2
+2026-03-03 05:31:14,647 - storybook-ai.parser - INFO - Found marker for Page 3
+2026-03-03 05:31:14,648 - storybook-ai.parser - INFO - Found marker for Page 4
+2026-03-03 05:31:14,648 - storybook-ai.parser - INFO - Found marker for Page 5
+2026-03-03 05:31:14,648 - storybook-ai.parser - INFO - Found marker for Page 6
+2026-03-03 05:31:14,648 - storybook-ai.parser - INFO - Found marker for Page 7
+2026-03-03 05:31:14,649 - storybook-ai.parser - INFO - Found marker for Page 8
+2026-03-03 05:31:14,650 - storybook-ai.parser - INFO - Found marker for Page 9
+2026-03-03 05:31:14,650 - storybook-ai.parser - INFO - Found marker for Page 10
+2026-03-03 05:31:14,650 - storybook-ai.parser - INFO - Found marker for Page 11
+2026-03-03 05:31:14,651 - storybook-ai.parser - INFO - Found marker for Page 12
+2026-03-03 05:31:14,651 - storybook-ai.parser - INFO - Found marker for Page 13
+2026-03-03 05:31:14,651 - storybook-ai.parser - INFO - Found marker for Page 14
+2026-03-03 05:31:14,652 - storybook-ai.parser - INFO - Found marker for Page 15
+2026-03-03 05:31:14,652 - storybook-ai.parser - INFO - Found marker for Page 16
+2026-03-03 05:31:14,653 - storybook-ai.parser - INFO - Found marker for Page 17
+2026-03-03 05:31:14,653 - storybook-ai.parser - INFO - Found marker for Page 18
+2026-03-03 05:31:14,653 - storybook-ai.parser - INFO - Found marker for Page 19
+2026-03-03 05:31:14,653 - storybook-ai.parser - INFO - Found marker for Page 20
+2026-03-03 05:31:14,653 - storybook-ai.parser - INFO - Found marker for Page 21
+2026-03-03 05:31:14,653 - storybook-ai.parser - INFO - Found marker for Page 22
+2026-03-03 05:31:14,654 - storybook-ai.parser - INFO - Found marker for Page 23
+2026-03-03 05:31:14,654 - storybook-ai.parser - INFO - Found marker for Page 24
+2026-03-03 05:31:14,654 - storybook-ai.parser - INFO - Found marker for Page 25
+2026-03-03 05:31:14,655 - storybook-ai.parser - INFO - Found marker for Page 26
+2026-03-03 05:31:14,655 - storybook-ai.parser - INFO - Found marker for Page 27
+2026-03-03 05:31:14,655 - storybook-ai.parser - INFO - Found marker for Page 28
+2026-03-03 05:31:14,655 - storybook-ai.parser - INFO - Found marker for Page 29
+2026-03-03 05:31:14,655 - storybook-ai.parser - INFO - Found marker for Page 30
+2026-03-03 05:31:14,656 - storybook-ai.parser - INFO - Final Page Count: 30
+2026-03-03 05:31:14,656 - storybook-ai - INFO - Extracted 30 pages from 'Title: Bailey and Beau’s Epic Explorations: Partners in Discovery'
+2026-03-03 05:33:43,785 - storybook-ai - INFO - Received upload request for file: original.docx
+2026-03-03 05:33:43,787 - storybook-ai - INFO - Saved temporary file to data\tmp\upload_20260303_053343.docx
+2026-03-03 05:33:43,787 - storybook-ai - INFO - Parsing DOCX: data\tmp\upload_20260303_053343.docx
+2026-03-03 05:33:43,787 - storybook-ai.parser - INFO - Parsing document at data\tmp\upload_20260303_053343.docx
+2026-03-03 05:33:43,831 - storybook-ai.parser - INFO - Inferred Book Title: Title: Bailey and Beau’s Epic Explorations: Partners in Discovery
+2026-03-03 05:33:43,831 - storybook-ai.parser - INFO - Found marker for Page 1
+2026-03-03 05:33:43,832 - storybook-ai.parser - INFO - Found marker for Page 2
+2026-03-03 05:33:43,832 - storybook-ai.parser - INFO - Found marker for Page 3
+2026-03-03 05:33:43,833 - storybook-ai.parser - INFO - Found marker for Page 4
+2026-03-03 05:33:43,833 - storybook-ai.parser - INFO - Found marker for Page 5
+2026-03-03 05:33:43,833 - storybook-ai.parser - INFO - Found marker for Page 6
+2026-03-03 05:33:43,833 - storybook-ai.parser - INFO - Found marker for Page 7
+2026-03-03 05:33:43,833 - storybook-ai.parser - INFO - Found marker for Page 8
+2026-03-03 05:33:43,833 - storybook-ai.parser - INFO - Found marker for Page 9
+2026-03-03 05:33:43,833 - storybook-ai.parser - INFO - Found marker for Page 10
+2026-03-03 05:33:43,833 - storybook-ai.parser - INFO - Found marker for Page 11
+2026-03-03 05:33:43,834 - storybook-ai.parser - INFO - Found marker for Page 12
+2026-03-03 05:33:43,834 - storybook-ai.parser - INFO - Found marker for Page 13
+2026-03-03 05:33:43,834 - storybook-ai.parser - INFO - Found marker for Page 14
+2026-03-03 05:33:43,834 - storybook-ai.parser - INFO - Found marker for Page 15
+2026-03-03 05:33:43,834 - storybook-ai.parser - INFO - Found marker for Page 16
+2026-03-03 05:33:43,834 - storybook-ai.parser - INFO - Found marker for Page 17
+2026-03-03 05:33:43,834 - storybook-ai.parser - INFO - Found marker for Page 18
+2026-03-03 05:33:43,834 - storybook-ai.parser - INFO - Found marker for Page 19
+2026-03-03 05:33:43,834 - storybook-ai.parser - INFO - Found marker for Page 20
+2026-03-03 05:33:43,835 - storybook-ai.parser - INFO - Found marker for Page 21
+2026-03-03 05:33:43,835 - storybook-ai.parser - INFO - Found marker for Page 22
+2026-03-03 05:33:43,835 - storybook-ai.parser - INFO - Found marker for Page 23
+2026-03-03 05:33:43,835 - storybook-ai.parser - INFO - Found marker for Page 24
+2026-03-03 05:33:43,835 - storybook-ai.parser - INFO - Found marker for Page 25
+2026-03-03 05:33:43,835 - storybook-ai.parser - INFO - Found marker for Page 26
+2026-03-03 05:33:43,835 - storybook-ai.parser - INFO - Found marker for Page 27
+2026-03-03 05:33:43,836 - storybook-ai.parser - INFO - Found marker for Page 28
+2026-03-03 05:33:43,836 - storybook-ai.parser - INFO - Found marker for Page 29
+2026-03-03 05:33:43,836 - storybook-ai.parser - INFO - Found marker for Page 30
+2026-03-03 05:33:43,836 - storybook-ai.parser - INFO - Final Page Count: 30
+2026-03-03 05:33:43,836 - storybook-ai - INFO - Extracted 30 pages from 'Title: Bailey and Beau’s Epic Explorations: Partners in Discovery'
+2026-03-03 05:34:22,149 - storybook-ai - INFO - Received upload request for file: original.docx
+2026-03-03 05:34:22,151 - storybook-ai - INFO - Saved temporary file to data\tmp\upload_20260303_053422.docx
+2026-03-03 05:34:22,151 - storybook-ai - INFO - Parsing DOCX: data\tmp\upload_20260303_053422.docx
+2026-03-03 05:34:22,151 - storybook-ai.parser - INFO - Parsing document at data\tmp\upload_20260303_053422.docx
+2026-03-03 05:34:22,199 - storybook-ai.parser - INFO - Inferred Book Title: Title: Bailey and Beau’s Epic Explorations: Partners in Discovery
+2026-03-03 05:34:22,199 - storybook-ai.parser - INFO - Found marker for Page 1
+2026-03-03 05:34:22,200 - storybook-ai.parser - INFO - Found marker for Page 2
+2026-03-03 05:34:22,200 - storybook-ai.parser - INFO - Found marker for Page 3
+2026-03-03 05:34:22,200 - storybook-ai.parser - INFO - Found marker for Page 4
+2026-03-03 05:34:22,200 - storybook-ai.parser - INFO - Found marker for Page 5
+2026-03-03 05:34:22,200 - storybook-ai.parser - INFO - Found marker for Page 6
+2026-03-03 05:34:22,200 - storybook-ai.parser - INFO - Found marker for Page 7
+2026-03-03 05:34:22,201 - storybook-ai.parser - INFO - Found marker for Page 8
+2026-03-03 05:34:22,201 - storybook-ai.parser - INFO - Found marker for Page 9
+2026-03-03 05:34:22,201 - storybook-ai.parser - INFO - Found marker for Page 10
+2026-03-03 05:34:22,201 - storybook-ai.parser - INFO - Found marker for Page 11
+2026-03-03 05:34:22,201 - storybook-ai.parser - INFO - Found marker for Page 12
+2026-03-03 05:34:22,201 - storybook-ai.parser - INFO - Found marker for Page 13
+2026-03-03 05:34:22,202 - storybook-ai.parser - INFO - Found marker for Page 14
+2026-03-03 05:34:22,202 - storybook-ai.parser - INFO - Found marker for Page 15
+2026-03-03 05:34:22,202 - storybook-ai.parser - INFO - Found marker for Page 16
+2026-03-03 05:34:22,202 - storybook-ai.parser - INFO - Found marker for Page 17
+2026-03-03 05:34:22,202 - storybook-ai.parser - INFO - Found marker for Page 18
+2026-03-03 05:34:22,203 - storybook-ai.parser - INFO - Found marker for Page 19
+2026-03-03 05:34:22,203 - storybook-ai.parser - INFO - Found marker for Page 20
+2026-03-03 05:34:22,203 - storybook-ai.parser - INFO - Found marker for Page 21
+2026-03-03 05:34:22,203 - storybook-ai.parser - INFO - Found marker for Page 22
+2026-03-03 05:34:22,203 - storybook-ai.parser - INFO - Found marker for Page 23
+2026-03-03 05:34:22,203 - storybook-ai.parser - INFO - Found marker for Page 24
+2026-03-03 05:34:22,203 - storybook-ai.parser - INFO - Found marker for Page 25
+2026-03-03 05:34:22,204 - storybook-ai.parser - INFO - Found marker for Page 26
+2026-03-03 05:34:22,204 - storybook-ai.parser - INFO - Found marker for Page 27
+2026-03-03 05:34:22,204 - storybook-ai.parser - INFO - Found marker for Page 28
+2026-03-03 05:34:22,204 - storybook-ai.parser - INFO - Found marker for Page 29
+2026-03-03 05:34:22,204 - storybook-ai.parser - INFO - Found marker for Page 30
+2026-03-03 05:34:22,204 - storybook-ai.parser - INFO - Final Page Count: 30
+2026-03-03 05:34:22,204 - storybook-ai - INFO - Extracted 30 pages from 'Title: Bailey and Beau’s Epic Explorations: Partners in Discovery'
+2026-03-03 05:37:45,458 - storybook-ai - INFO - Received upload request for file: original.docx
+2026-03-03 05:37:45,461 - storybook-ai - INFO - Saved temporary file to data\tmp\upload_20260303_053745.docx
+2026-03-03 05:37:45,462 - storybook-ai - INFO - Parsing DOCX: data\tmp\upload_20260303_053745.docx
+2026-03-03 05:37:45,462 - storybook-ai.parser - INFO - Parsing document at data\tmp\upload_20260303_053745.docx
+2026-03-03 05:37:45,521 - storybook-ai.parser - INFO - Inferred Book Title: Title: Bailey and Beau’s Epic Explorations: Partners in Discovery
+2026-03-03 05:37:45,522 - storybook-ai.parser - INFO - Found marker for Page 1
+2026-03-03 05:37:45,522 - storybook-ai.parser - INFO - Found marker for Page 2
+2026-03-03 05:37:45,522 - storybook-ai.parser - INFO - Found marker for Page 3
+2026-03-03 05:37:45,522 - storybook-ai.parser - INFO - Found marker for Page 4
+2026-03-03 05:37:45,522 - storybook-ai.parser - INFO - Found marker for Page 5
+2026-03-03 05:37:45,523 - storybook-ai.parser - INFO - Found marker for Page 6
+2026-03-03 05:37:45,523 - storybook-ai.parser - INFO - Found marker for Page 7
+2026-03-03 05:37:45,523 - storybook-ai.parser - INFO - Found marker for Page 8
+2026-03-03 05:37:45,523 - storybook-ai.parser - INFO - Found marker for Page 9
+2026-03-03 05:37:45,523 - storybook-ai.parser - INFO - Found marker for Page 10
+2026-03-03 05:37:45,523 - storybook-ai.parser - INFO - Found marker for Page 11
+2026-03-03 05:37:45,524 - storybook-ai.parser - INFO - Found marker for Page 12
+2026-03-03 05:37:45,524 - storybook-ai.parser - INFO - Found marker for Page 13
+2026-03-03 05:37:45,524 - storybook-ai.parser - INFO - Found marker for Page 14
+2026-03-03 05:37:45,524 - storybook-ai.parser - INFO - Found marker for Page 15
+2026-03-03 05:37:45,524 - storybook-ai.parser - INFO - Found marker for Page 16
+2026-03-03 05:37:45,524 - storybook-ai.parser - INFO - Found marker for Page 17
+2026-03-03 05:37:45,525 - storybook-ai.parser - INFO - Found marker for Page 18
+2026-03-03 05:37:45,525 - storybook-ai.parser - INFO - Found marker for Page 19
+2026-03-03 05:37:45,525 - storybook-ai.parser - INFO - Found marker for Page 20
+2026-03-03 05:37:45,525 - storybook-ai.parser - INFO - Found marker for Page 21
+2026-03-03 05:37:45,525 - storybook-ai.parser - INFO - Found marker for Page 22
+2026-03-03 05:37:45,526 - storybook-ai.parser - INFO - Found marker for Page 23
+2026-03-03 05:37:45,526 - storybook-ai.parser - INFO - Found marker for Page 24
+2026-03-03 05:37:45,526 - storybook-ai.parser - INFO - Found marker for Page 25
+2026-03-03 05:37:45,526 - storybook-ai.parser - INFO - Found marker for Page 26
+2026-03-03 05:37:45,526 - storybook-ai.parser - INFO - Found marker for Page 27
+2026-03-03 05:37:45,527 - storybook-ai.parser - INFO - Found marker for Page 28
+2026-03-03 05:37:45,527 - storybook-ai.parser - INFO - Found marker for Page 29
+2026-03-03 05:37:45,527 - storybook-ai.parser - INFO - Found marker for Page 30
+2026-03-03 05:37:45,527 - storybook-ai.parser - INFO - Final Page Count: 30
+2026-03-03 05:37:45,527 - storybook-ai - INFO - Extracted 30 pages from 'Title: Bailey and Beau’s Epic Explorations: Partners in Discovery'
+2026-03-03 05:37:45,532 - storybook-ai - INFO - Moved original to permanent storage: data\books\title-bailey-and-beau-s-epic-explorations-partners-in-discov_20260303_053745\input\original.docx
+2026-03-03 05:37:45,535 - storybook-ai - INFO - Book initialization complete for title-bailey-and-beau-s-epic-explorations-partners-in-discov_20260303_053745
+2026-03-03 05:39:26,852 - storybook-ai - INFO - Received upload request for file: original.docx
+2026-03-03 05:39:26,854 - storybook-ai - INFO - Saved temporary file to data\tmp\upload_20260303_053926.docx
+2026-03-03 05:39:26,854 - storybook-ai - INFO - Parsing DOCX: data\tmp\upload_20260303_053926.docx
+2026-03-03 05:39:26,854 - storybook-ai.parser - INFO - Parsing document at data\tmp\upload_20260303_053926.docx
+2026-03-03 05:39:26,903 - storybook-ai.parser - INFO - Inferred Book Title: Title: Bailey and Beau’s Epic Explorations: Partners in Discovery
+2026-03-03 05:39:26,904 - storybook-ai.parser - INFO - Found marker for Page 1
+2026-03-03 05:39:26,904 - storybook-ai.parser - INFO - Found marker for Page 2
+2026-03-03 05:39:26,904 - storybook-ai.parser - INFO - Found marker for Page 3
+2026-03-03 05:39:26,904 - storybook-ai.parser - INFO - Found marker for Page 4
+2026-03-03 05:39:26,905 - storybook-ai.parser - INFO - Found marker for Page 5
+2026-03-03 05:39:26,905 - storybook-ai.parser - INFO - Found marker for Page 6
+2026-03-03 05:39:26,905 - storybook-ai.parser - INFO - Found marker for Page 7
+2026-03-03 05:39:26,905 - storybook-ai.parser - INFO - Found marker for Page 8
+2026-03-03 05:39:26,905 - storybook-ai.parser - INFO - Found marker for Page 9
+2026-03-03 05:39:26,906 - storybook-ai.parser - INFO - Found marker for Page 10
+2026-03-03 05:39:26,906 - storybook-ai.parser - INFO - Found marker for Page 11
+2026-03-03 05:39:26,906 - storybook-ai.parser - INFO - Found marker for Page 12
+2026-03-03 05:39:26,906 - storybook-ai.parser - INFO - Found marker for Page 13
+2026-03-03 05:39:26,906 - storybook-ai.parser - INFO - Found marker for Page 14
+2026-03-03 05:39:26,907 - storybook-ai.parser - INFO - Found marker for Page 15
+2026-03-03 05:39:26,907 - storybook-ai.parser - INFO - Found marker for Page 16
+2026-03-03 05:39:26,907 - storybook-ai.parser - INFO - Found marker for Page 17
+2026-03-03 05:39:26,907 - storybook-ai.parser - INFO - Found marker for Page 18
+2026-03-03 05:39:26,907 - storybook-ai.parser - INFO - Found marker for Page 19
+2026-03-03 05:39:26,908 - storybook-ai.parser - INFO - Found marker for Page 20
+2026-03-03 05:39:26,908 - storybook-ai.parser - INFO - Found marker for Page 21
+2026-03-03 05:39:26,908 - storybook-ai.parser - INFO - Found marker for Page 22
+2026-03-03 05:39:26,908 - storybook-ai.parser - INFO - Found marker for Page 23
+2026-03-03 05:39:26,908 - storybook-ai.parser - INFO - Found marker for Page 24
+2026-03-03 05:39:26,909 - storybook-ai.parser - INFO - Found marker for Page 25
+2026-03-03 05:39:26,909 - storybook-ai.parser - INFO - Found marker for Page 26
+2026-03-03 05:39:26,910 - storybook-ai.parser - INFO - Found marker for Page 27
+2026-03-03 05:39:26,910 - storybook-ai.parser - INFO - Found marker for Page 28
+2026-03-03 05:39:26,911 - storybook-ai.parser - INFO - Found marker for Page 29
+2026-03-03 05:39:26,911 - storybook-ai.parser - INFO - Found marker for Page 30
+2026-03-03 05:39:26,911 - storybook-ai.parser - INFO - Final Page Count: 30
+2026-03-03 05:39:26,911 - storybook-ai - INFO - Extracted 30 pages from 'Title: Bailey and Beau’s Epic Explorations: Partners in Discovery'
+2026-03-03 05:39:26,914 - storybook-ai - INFO - Moved original to permanent storage: data\books\title-bailey-and-beau-s-epic-explorations-partners-in-discov_20260303_053926\input\original.docx
+2026-03-03 05:39:26,917 - storybook-ai - INFO - Book initialization complete for title-bailey-and-beau-s-epic-explorations-partners-in-discov_20260303_053926
+2026-03-03 05:39:35,976 - storybook-ai - INFO - Generating scene for book title-bailey-and-beau-s-epic-explorations-partners-in-discov_20260303_053926, page 1
+2026-03-03 05:39:39,784 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 05:39:39,792 - storybook-ai - INFO - Successfully generated scene for page 1
+2026-03-03 05:39:39,821 - storybook-ai - INFO - Generating scene for book title-bailey-and-beau-s-epic-explorations-partners-in-discov_20260303_053926, page 2
+2026-03-03 05:39:43,880 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 05:39:43,884 - storybook-ai - INFO - Successfully generated scene for page 2
+2026-03-03 05:39:43,917 - storybook-ai - INFO - Generating scene for book title-bailey-and-beau-s-epic-explorations-partners-in-discov_20260303_053926, page 3
+2026-03-03 05:39:48,550 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 05:39:48,555 - storybook-ai - INFO - Successfully generated scene for page 3
+2026-03-03 05:39:48,593 - storybook-ai - INFO - Generating scene for book title-bailey-and-beau-s-epic-explorations-partners-in-discov_20260303_053926, page 4
+2026-03-03 05:39:52,576 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 05:39:52,580 - storybook-ai - INFO - Successfully generated scene for page 4
+2026-03-03 05:39:52,614 - storybook-ai - INFO - Generating scene for book title-bailey-and-beau-s-epic-explorations-partners-in-discov_20260303_053926, page 5
+2026-03-03 05:39:59,772 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 05:39:59,777 - storybook-ai - INFO - Successfully generated scene for page 5
+2026-03-03 05:39:59,817 - storybook-ai - INFO - Generating scene for book title-bailey-and-beau-s-epic-explorations-partners-in-discov_20260303_053926, page 6
+2026-03-03 05:40:03,979 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 05:40:03,984 - storybook-ai - INFO - Successfully generated scene for page 6
+2026-03-03 05:40:04,022 - storybook-ai - INFO - Generating scene for book title-bailey-and-beau-s-epic-explorations-partners-in-discov_20260303_053926, page 7
+2026-03-03 05:40:09,088 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 05:40:09,092 - storybook-ai - INFO - Successfully generated scene for page 7
+2026-03-03 05:40:09,123 - storybook-ai - INFO - Generating scene for book title-bailey-and-beau-s-epic-explorations-partners-in-discov_20260303_053926, page 8
+2026-03-03 05:40:13,716 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 05:40:13,722 - storybook-ai - INFO - Successfully generated scene for page 8
+2026-03-03 05:40:13,755 - storybook-ai - INFO - Generating scene for book title-bailey-and-beau-s-epic-explorations-partners-in-discov_20260303_053926, page 9
+2026-03-03 05:40:17,668 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 05:40:17,673 - storybook-ai - INFO - Successfully generated scene for page 9
+2026-03-03 05:40:17,714 - storybook-ai - INFO - Generating scene for book title-bailey-and-beau-s-epic-explorations-partners-in-discov_20260303_053926, page 10
+2026-03-03 05:40:22,387 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 05:40:22,392 - storybook-ai - INFO - Successfully generated scene for page 10
+2026-03-03 05:40:22,425 - storybook-ai - INFO - Generating scene for book title-bailey-and-beau-s-epic-explorations-partners-in-discov_20260303_053926, page 11
+2026-03-03 05:40:26,300 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 05:40:26,305 - storybook-ai - INFO - Successfully generated scene for page 11
+2026-03-03 05:40:26,339 - storybook-ai - INFO - Generating scene for book title-bailey-and-beau-s-epic-explorations-partners-in-discov_20260303_053926, page 12
+2026-03-03 05:40:32,570 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 05:40:32,578 - storybook-ai - INFO - Successfully generated scene for page 12
+2026-03-03 05:40:32,614 - storybook-ai - INFO - Generating scene for book title-bailey-and-beau-s-epic-explorations-partners-in-discov_20260303_053926, page 13
+2026-03-03 05:40:37,037 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 05:40:37,040 - storybook-ai - INFO - Successfully generated scene for page 13
+2026-03-03 05:40:37,076 - storybook-ai - INFO - Generating scene for book title-bailey-and-beau-s-epic-explorations-partners-in-discov_20260303_053926, page 14
+2026-03-03 05:40:42,373 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 05:40:42,375 - storybook-ai - INFO - Successfully generated scene for page 14
+2026-03-03 05:40:42,419 - storybook-ai - INFO - Generating scene for book title-bailey-and-beau-s-epic-explorations-partners-in-discov_20260303_053926, page 15
+2026-03-03 05:40:46,553 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 05:40:46,558 - storybook-ai - INFO - Successfully generated scene for page 15
+2026-03-03 05:40:46,599 - storybook-ai - INFO - Generating scene for book title-bailey-and-beau-s-epic-explorations-partners-in-discov_20260303_053926, page 16
+2026-03-03 05:40:50,236 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 05:40:50,240 - storybook-ai - INFO - Successfully generated scene for page 16
+2026-03-03 05:40:50,276 - storybook-ai - INFO - Generating scene for book title-bailey-and-beau-s-epic-explorations-partners-in-discov_20260303_053926, page 17
+2026-03-03 05:40:54,260 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 05:40:54,265 - storybook-ai - INFO - Successfully generated scene for page 17
+2026-03-03 05:40:54,316 - storybook-ai - INFO - Generating scene for book title-bailey-and-beau-s-epic-explorations-partners-in-discov_20260303_053926, page 18
+2026-03-03 05:40:57,625 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 05:40:57,629 - storybook-ai - INFO - Successfully generated scene for page 18
+2026-03-03 05:40:57,667 - storybook-ai - INFO - Generating scene for book title-bailey-and-beau-s-epic-explorations-partners-in-discov_20260303_053926, page 19
+2026-03-03 05:41:02,031 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 05:41:02,033 - storybook-ai - INFO - Successfully generated scene for page 19
+2026-03-03 05:41:02,153 - storybook-ai - INFO - Generating scene for book title-bailey-and-beau-s-epic-explorations-partners-in-discov_20260303_053926, page 20
+2026-03-03 05:41:06,946 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 05:41:06,950 - storybook-ai - INFO - Successfully generated scene for page 20
+2026-03-03 05:41:06,995 - storybook-ai - INFO - Generating scene for book title-bailey-and-beau-s-epic-explorations-partners-in-discov_20260303_053926, page 21
+2026-03-03 05:41:10,923 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 05:41:10,926 - storybook-ai - INFO - Successfully generated scene for page 21
+2026-03-03 05:41:10,959 - storybook-ai - INFO - Generating scene for book title-bailey-and-beau-s-epic-explorations-partners-in-discov_20260303_053926, page 22
+2026-03-03 05:41:15,191 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 05:41:15,197 - storybook-ai - INFO - Successfully generated scene for page 22
+2026-03-03 05:41:15,241 - storybook-ai - INFO - Generating scene for book title-bailey-and-beau-s-epic-explorations-partners-in-discov_20260303_053926, page 23
+2026-03-03 05:41:19,878 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 05:41:19,884 - storybook-ai - INFO - Successfully generated scene for page 23
+2026-03-03 05:41:19,931 - storybook-ai - INFO - Generating scene for book title-bailey-and-beau-s-epic-explorations-partners-in-discov_20260303_053926, page 24
+2026-03-03 05:41:24,540 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 05:41:24,542 - storybook-ai - INFO - Successfully generated scene for page 24
+2026-03-03 05:41:24,590 - storybook-ai - INFO - Generating scene for book title-bailey-and-beau-s-epic-explorations-partners-in-discov_20260303_053926, page 25
+2026-03-03 05:41:29,954 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 05:41:29,958 - storybook-ai - INFO - Successfully generated scene for page 25
+2026-03-03 05:41:30,004 - storybook-ai - INFO - Generating scene for book title-bailey-and-beau-s-epic-explorations-partners-in-discov_20260303_053926, page 26
+2026-03-03 05:41:33,447 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 05:41:33,451 - storybook-ai - INFO - Successfully generated scene for page 26
+2026-03-03 05:41:33,489 - storybook-ai - INFO - Generating scene for book title-bailey-and-beau-s-epic-explorations-partners-in-discov_20260303_053926, page 27
+2026-03-03 05:41:36,726 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 05:41:36,731 - storybook-ai - INFO - Successfully generated scene for page 27
+2026-03-03 05:41:36,782 - storybook-ai - INFO - Generating scene for book title-bailey-and-beau-s-epic-explorations-partners-in-discov_20260303_053926, page 28
+2026-03-03 05:41:40,393 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 05:41:40,400 - storybook-ai - INFO - Successfully generated scene for page 28
+2026-03-03 05:41:40,443 - storybook-ai - INFO - Generating scene for book title-bailey-and-beau-s-epic-explorations-partners-in-discov_20260303_053926, page 29
+2026-03-03 05:41:44,884 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 05:41:44,890 - storybook-ai - INFO - Successfully generated scene for page 29
+2026-03-03 05:41:44,932 - storybook-ai - INFO - Generating scene for book title-bailey-and-beau-s-epic-explorations-partners-in-discov_20260303_053926, page 30
+2026-03-03 05:41:49,318 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 05:41:49,326 - storybook-ai - INFO - Successfully generated scene for page 30
+2026-03-03 05:43:11,133 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2026-03-03 05:43:31,413 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-image:generateContent "HTTP/1.1 200 OK"
+2026-03-03 05:43:32,958 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2026-03-03 05:43:53,133 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-image:generateContent "HTTP/1.1 200 OK"
+2026-03-03 05:43:54,605 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2026-03-03 05:44:18,333 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-image:generateContent "HTTP/1.1 200 OK"
+2026-03-03 05:44:19,747 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2026-03-03 05:44:39,607 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-image:generateContent "HTTP/1.1 200 OK"
+2026-03-03 05:44:40,967 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2026-03-03 05:44:59,065 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-image:generateContent "HTTP/1.1 200 OK"
+2026-03-03 05:45:00,567 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2026-03-03 05:45:22,389 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-image:generateContent "HTTP/1.1 200 OK"
+2026-03-03 05:45:23,762 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2026-03-03 05:45:43,645 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-image:generateContent "HTTP/1.1 200 OK"
+2026-03-03 05:45:44,950 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2026-03-03 05:46:05,108 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-image:generateContent "HTTP/1.1 200 OK"
+2026-03-03 05:46:06,619 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2026-03-03 05:46:25,505 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-image:generateContent "HTTP/1.1 200 OK"
+2026-03-03 05:46:26,836 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2026-03-03 05:46:43,806 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-image:generateContent "HTTP/1.1 200 OK"
+2026-03-03 05:46:45,345 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2026-03-03 05:47:02,490 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-image:generateContent "HTTP/1.1 200 OK"
+2026-03-03 05:47:04,013 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2026-03-03 05:47:24,859 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-image:generateContent "HTTP/1.1 200 OK"
+2026-03-03 05:47:26,372 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2026-03-03 05:48:40,415 - storybook-ai - INFO - Received upload request for file: original.docx
+2026-03-03 05:48:40,417 - storybook-ai - INFO - Saved temporary file to data\tmp\upload_20260303_054840.docx
+2026-03-03 05:48:40,417 - storybook-ai - INFO - Parsing DOCX: data\tmp\upload_20260303_054840.docx
+2026-03-03 05:48:40,418 - storybook-ai.parser - INFO - Parsing document at data\tmp\upload_20260303_054840.docx
+2026-03-03 05:48:40,457 - storybook-ai.parser - INFO - Inferred Book Title: Title: Bailey and Beau’s Epic Explorations: Partners in Discovery
+2026-03-03 05:48:40,458 - storybook-ai.parser - INFO - Found marker for Page 1
+2026-03-03 05:48:40,458 - storybook-ai.parser - INFO - Found marker for Page 2
+2026-03-03 05:48:40,458 - storybook-ai.parser - INFO - Found marker for Page 3
+2026-03-03 05:48:40,458 - storybook-ai.parser - INFO - Found marker for Page 4
+2026-03-03 05:48:40,459 - storybook-ai.parser - INFO - Found marker for Page 5
+2026-03-03 05:48:40,459 - storybook-ai.parser - INFO - Found marker for Page 6
+2026-03-03 05:48:40,459 - storybook-ai.parser - INFO - Found marker for Page 7
+2026-03-03 05:48:40,459 - storybook-ai.parser - INFO - Found marker for Page 8
+2026-03-03 05:48:40,459 - storybook-ai.parser - INFO - Found marker for Page 9
+2026-03-03 05:48:40,460 - storybook-ai.parser - INFO - Found marker for Page 10
+2026-03-03 05:48:40,460 - storybook-ai.parser - INFO - Found marker for Page 11
+2026-03-03 05:48:40,460 - storybook-ai.parser - INFO - Found marker for Page 12
+2026-03-03 05:48:40,460 - storybook-ai.parser - INFO - Found marker for Page 13
+2026-03-03 05:48:40,460 - storybook-ai.parser - INFO - Found marker for Page 14
+2026-03-03 05:48:40,460 - storybook-ai.parser - INFO - Found marker for Page 15
+2026-03-03 05:48:40,460 - storybook-ai.parser - INFO - Found marker for Page 16
+2026-03-03 05:48:40,460 - storybook-ai.parser - INFO - Found marker for Page 17
+2026-03-03 05:48:40,461 - storybook-ai.parser - INFO - Found marker for Page 18
+2026-03-03 05:48:40,461 - storybook-ai.parser - INFO - Found marker for Page 19
+2026-03-03 05:48:40,461 - storybook-ai.parser - INFO - Found marker for Page 20
+2026-03-03 05:48:40,461 - storybook-ai.parser - INFO - Found marker for Page 21
+2026-03-03 05:48:40,461 - storybook-ai.parser - INFO - Found marker for Page 22
+2026-03-03 05:48:40,461 - storybook-ai.parser - INFO - Found marker for Page 23
+2026-03-03 05:48:40,461 - storybook-ai.parser - INFO - Found marker for Page 24
+2026-03-03 05:48:40,462 - storybook-ai.parser - INFO - Found marker for Page 25
+2026-03-03 05:48:40,462 - storybook-ai.parser - INFO - Found marker for Page 26
+2026-03-03 05:48:40,462 - storybook-ai.parser - INFO - Found marker for Page 27
+2026-03-03 05:48:40,462 - storybook-ai.parser - INFO - Found marker for Page 28
+2026-03-03 05:48:40,463 - storybook-ai.parser - INFO - Found marker for Page 29
+2026-03-03 05:48:40,463 - storybook-ai.parser - INFO - Found marker for Page 30
+2026-03-03 05:48:40,463 - storybook-ai.parser - INFO - Final Page Count: 30
+2026-03-03 05:48:40,463 - storybook-ai - INFO - Extracted 30 pages from 'Title: Bailey and Beau’s Epic Explorations: Partners in Discovery'
+2026-03-03 05:48:40,465 - storybook-ai - INFO - Moved original to permanent storage: data\books\title-bailey-and-beau-s-epic-explorations-partners-in-discov_20260303_054840\input\original.docx
+2026-03-03 05:48:40,469 - storybook-ai - INFO - Book initialization complete for title-bailey-and-beau-s-epic-explorations-partners-in-discov_20260303_054840
+2026-03-03 05:48:48,843 - storybook-ai - INFO - Generating scene for book title-bailey-and-beau-s-epic-explorations-partners-in-discov_20260303_054840, page 30
+2026-03-03 05:48:53,579 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 05:48:53,590 - storybook-ai - INFO - Successfully generated scene for page 30
+2026-03-03 05:48:56,092 - storybook-ai - INFO - Starting background image generation for title-bailey-and-beau-s-epic-explorations-partners-in-discov_20260303_054840, total 1 pages.
+2026-03-03 05:48:56,122 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2026-03-03 05:49:19,874 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-image:generateContent "HTTP/1.1 200 OK"
+2026-03-03 05:49:21,428 - storybook-ai - INFO - Generated image for page 30
