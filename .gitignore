@@ -1,5 +1,4 @@
 # Environment variables
-.env
 *.env.local
 *.env.*.local
 
@@ -57,7 +56,6 @@ dist/
 build/
 
 # IDEs
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -72,3 +70,7 @@ storybook-ai/data/books/
 storybook-ai/data/tmp/
 storybook-ai/data/output/
 !storybook-ai/data/.gitkeep
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
